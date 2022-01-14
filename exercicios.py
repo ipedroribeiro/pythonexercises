@@ -74,3 +74,30 @@
 #    print ('Sim, temos a fruta.')
 #else:
 #    print ('Não temos a fruta.')
+
+
+#frutas = ['Figo', 'Banana', 'Uva', 'Melão', 'Mamão']
+#fruta_buscada = 'Melancia'
+#if fruta_buscada in frutas:
+#    print (frutas.index(fruta_buscada))
+#else:
+#    print("Desculpe, a {} não está presente na lista de frutas.".format(fruta_buscada))
+
+
+#instrutores = {'Nico' : 39, 'Flavio': 37,'Pedro' : 18, 'Marcos' : 30}
+#print (instrutores ['Pedro'])
+
+
+#total = 0
+#palavra = "python rocks!"
+#acabou = False
+#while (not acabou):
+#    acabou = (total == len(palavra))
+#    total = total + 1
+#print(total - 1)
+
+
+#passos = 0
+#while (passos<10):
+#  passos += 1
+#print(passos)
