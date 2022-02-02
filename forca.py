@@ -1,10 +1,10 @@
 import random
 
-
-
 def jogar():
     abertura()
+
     palavra_secreta = palavra_definida()
+
     letras_acertadas = inicializa_letras_acertadas(palavra_secreta)
     print(letras_acertadas)
 
@@ -31,7 +31,6 @@ def jogar():
         mensagem_vencedor()
     else:
         mensagem_perdedor(palavra_secreta)
-
 
 
 def abertura():
